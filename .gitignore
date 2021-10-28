@@ -1,0 +1,37 @@
+./core/HELP.md
+./core.gradle
+./corebuild/
+!/core/gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.gitignore.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+./core/nbproject/private/
+./core/nbbuild/
+./core/dist/
+./core/nbdist/
+./core/.nb-gradle/
+
+### VS Code ###
+./core/.vscode/
