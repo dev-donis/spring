@@ -1,6 +1,6 @@
 ./core/HELP.md
-./core.gradle
-./corebuild/
+./core/.gradle
+./core/build/
 !/core/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
